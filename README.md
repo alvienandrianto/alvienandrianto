@@ -12,7 +12,15 @@ Hi, my name is **Alvien Andrianto**.<br>
 
   <p>💬Want to connect with me?</p> 
   <a href="https://open.spotify.com/user/w4wmsxcawn82ptf4c02y1coz3?si=df9f11ec3a1a437e"><img align="left" alt="Spotify" title="Spotify" width="21px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" /></a>
-  <a href="https://discordapp.com/users/587458390280765463"><img align="left" alt="Discord" title="Discord" width="21px" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" /></a>
+  <a href="https://discordapp.com/users/587458390280765463"><img align="left" alt="Discord" title="Discord" width="21px" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" /></a><br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/alvienandrianto">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvienandrianto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvienandrianto&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **alvienandrianto/alvienandrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

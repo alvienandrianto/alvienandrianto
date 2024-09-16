@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hi, my name is **Alvien Andrianto**.<br>
+
+🌱 I’m currently learning Computer Science at Soegijapranata Chatolic University. <br>
+
+📫 How to reach me: If you'd like to connect with me, feel free to follow my [Linkedin](https://www.linkedin.com/in/alvien-andrianto/) profile.
+
+😄 Pronouns: He/him
+
+⚡ Fun fact: [Reality CLub - 2112](https://open.spotify.com/track/5Gxwk3TSekI4GVMpFvPBEc?si=1b2f64f54ff94bb5) (5:12) 
+
 <!--
 **alvienandrianto/alvienandrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
